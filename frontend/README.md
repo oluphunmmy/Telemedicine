@@ -1,8 +1,20 @@
-# React + Vite
+This application is work in progress and will contain the below features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Three-Tier Authentication: 
+ - Patient Portal:
+ - Secure login for booking, managing appointments, and viewing personalized profiles. 
+ - Doctor Dashboard: 
+ - Doctors can manage schedules, view earnings, and update their profiles effortlessly. 
+ - Admin Dashboard:
+ - Admins oversee the entire system, managing doctor profiles and patient appointments seamlessly. 
 
-Currently, two official plugins are available:
+2️⃣ Integrated Online Payments: 
+ - Patients can pay their appointment fees directly on the platform using a secure and efficient payment gateway. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3️⃣ Full Responsiveness:
+ - Optimized for use across devices to ensure accessibility for all users. 
+
+4️⃣ Modern Tech Stack: 
+ - Frontend: React.js for dynamic user experiences. 
+ - Styling: Tailwind CSS for a sleek, professional design. 
+ - Backend: Node.js and Express with MongoDB for secure and scalable data management. 
